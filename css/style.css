@@ -1,0 +1,12 @@
+.rect{
+    height: 20cm;
+    width: 100%;
+    position: relative;
+}
+h1{
+    height: 5cm;
+    width: 10cm;
+    background-color: red;
+    position: absolute;
+    left: 50%;
+}
